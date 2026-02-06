@@ -29,7 +29,7 @@ public class SwitchClass {
         }
 
     }
-// switch has to eb
+// switch is used to check multiple conditions using only one variable
     public static void main1(String[] args) {
         String visa = "H1B";
 
